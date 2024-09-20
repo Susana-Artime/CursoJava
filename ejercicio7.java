@@ -27,6 +27,7 @@ public class ejercicio7{
                                                        
         System.out.println("La expresión es: " + num1 + "+" + num2 +"*" +num3 + " y el resultado es " + resultado); 
         
+        sc.close();
 
     }
     

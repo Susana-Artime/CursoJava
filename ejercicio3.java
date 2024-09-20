@@ -14,7 +14,9 @@ public class ejercicio3{
         A = A + B;
         B = A - B;
         A = A - B;
-        System.out.println("Valores intercambiados: A = " + A + "   B = " + B);                                   
+        System.out.println("Valores intercambiados: A = " + A + "   B = " + B); 
+        sc.close();
+                                          
     }
     
 }

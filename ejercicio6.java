@@ -14,6 +14,9 @@ public class ejercicio6{
         
         sum= num1+num2;
         System.out.println("La suma es : " +sum);
+
+        sc.close();
+
     }
 
 }

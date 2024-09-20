@@ -24,7 +24,8 @@ public class ejercicio5{
         System.out.println("El número introducido es: " + num); 
         System.out.println("El decimal introducido es: " + decimal); 
         System.out.println("La palabra o frase introducida es: " + cadena); 
-
+        
+        sc.close();
     }
     
 }

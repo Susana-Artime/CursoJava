@@ -15,6 +15,8 @@ public class ejercicio8{
        
         area = pi *(r*r);
         System.out.println("El área del circulo es de " + area);
+
+        sc.close();
                
      }
     
