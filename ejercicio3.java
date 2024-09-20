@@ -11,9 +11,9 @@ public class ejercicio3{
         B = sc.nextInt();
         System.out.println("Valores iniciales: A = " + A + "   B = " + B);                                        
         
-        A = A + B;
-        B = A - B;
-        A = A - B;
+        A = A ^ B;
+        B = A ^ B;
+        A = A ^ B;
         System.out.println("Valores intercambiados: A = " + A + "   B = " + B);                                   
     }
     
