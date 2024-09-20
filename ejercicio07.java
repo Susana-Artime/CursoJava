@@ -1,6 +1,9 @@
+//Expresiones aritméticas simples: Crea un programa que evalúe una expresión
+//aritmética simple ingresada por el usuario (por ejemplo, 3 + 5 * 2).
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio7{
+public class ejercicio07{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

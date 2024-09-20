@@ -1,6 +1,10 @@
+/*Leer y mostrar entrada del usuario: Escribe un programa que lea un entero,
+un número decimal y una cadena de texto ingresados por el usuario, luego
+muéstralos.*/
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio5{
+public class ejercicio05{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

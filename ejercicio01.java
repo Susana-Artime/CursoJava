@@ -1,6 +1,8 @@
+//Declarar e inicializar variables: Escribe un programa que declare e inicialice
+//diferentes tipos de variables (int, float, char, etc.), luego imprímelas.
 
 package CursoJava;
-public class ejercicio1{
+public class ejercicio01{
 
     public static void main(String[] args) {
     

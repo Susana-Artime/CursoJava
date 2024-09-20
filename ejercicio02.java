@@ -1,6 +1,9 @@
+//Intercambiar dos variables: Escribe un programa que intercambie dos
+//variables enteras sin usar una tercera variable.
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio3{
+public class ejercicio02{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,8 +18,8 @@ public class ejercicio3{
         B = A - B;
         A = A - B;
         System.out.println("Valores intercambiados: A = " + A + "   B = " + B); 
+        
         sc.close();
-                                          
     }
     
 }

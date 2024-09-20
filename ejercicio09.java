@@ -1,8 +1,10 @@
+//Aplicación GUI simple: Crea una interfaz gráfica básica con JOptionPane que
+//le pida al usuario su nombre y luego muestre un saludo.
 
 package CursoJava;
 import javax.swing.JOptionPane;
 
-public class ejercicio9{
+public class ejercicio09{
     public static void main(String[] args) {
         
         // GUI intro

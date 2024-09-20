@@ -1,6 +1,8 @@
+//Suma de dos números: Escribe un programa que lea dos números enteros del usuario e imprima su suma.
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio6{
+public class ejercicio06{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

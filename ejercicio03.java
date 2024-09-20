@@ -1,6 +1,11 @@
+/*Intercambiar usando operaciones aritméticas: Modifica el ejercicio anterior
+para intercambiar dos enteros usando operaciones aritméticas (por ejemplo,
+suma y resta).
+*/
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio2{
+public class ejercicio03{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,8 +20,8 @@ public class ejercicio2{
         B = A - B;
         A = A - B;
         System.out.println("Valores intercambiados: A = " + A + "   B = " + B); 
-        
         sc.close();
+                                          
     }
     
 }

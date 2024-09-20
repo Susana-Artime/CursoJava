@@ -1,6 +1,9 @@
+//Intercambiar usando XOR bit a bit: Intercambia dos variables enteras usando
+//la operación bit a bit XOR.
+
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio4{
+public class ejercicio04{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

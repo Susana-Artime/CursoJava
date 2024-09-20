@@ -1,8 +1,10 @@
+// Calcular área de un círculo: Escribe un programa que calcule el área de un 
+//círculo en función del radio ingresado por el usuario.
 
 package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio8{
+public class ejercicio08{
     
     public static void main (String [] args){
         int r; 

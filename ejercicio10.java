@@ -1,3 +1,6 @@
+//Calculadora GUI: Escribe una calculadora simple con interfaz gráfica usando
+//JOptionPane que pueda sumar, restar, multiplicar y dividir dos números.
+
 package CursoJava;
 import javax.swing.JOptionPane;
 public class ejercicio10{
