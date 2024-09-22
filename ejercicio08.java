@@ -8,7 +8,7 @@ public class ejercicio08{
     
     public static void main (String [] args){
         int r; 
-        double pi= 3.14;
+        double pi= 3.1416;
         double area;   
 
         System.out.println("Ingresa el tamaño del radio: ");
