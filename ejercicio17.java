@@ -1,4 +1,4 @@
-//VCalculadora simple usando switch: Escribe un programa que realice suma,
+//Calculadora simple usando switch: Escribe un programa que realice suma,
 //resta, multiplicación o división según la entrada del usuario usando una sentencia switch.
 
 package CursoJava;
