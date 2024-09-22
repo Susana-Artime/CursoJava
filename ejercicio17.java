@@ -42,6 +42,7 @@ public class ejercicio17{
                 System.out.println("La opción ingresada NO es válida");
                 break;
         }
+        sc.close();
     }
 }
 
