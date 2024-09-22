@@ -1,3 +1,6 @@
+//Simulador de tirada de dados: Crea un programa que simule la tirada de un
+//par de dados usando números aleatorios.
+
 package CursoJava;
 
 public class ejercicio13 {
