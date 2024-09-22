@@ -38,7 +38,8 @@ public class ejercicio11{
         num = sc.nextInt();
         absoluto = Math.abs(num);
         System.out.println("El valor absoluto de " + num + " es " + absoluto);
-               
+          
+        sc.close();
      }
 
     
