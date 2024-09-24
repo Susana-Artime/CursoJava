@@ -20,7 +20,7 @@ public class Ejercicio23{
         System.out.println(num + " x " +i+ " = " +resultado);
 
       }
-
+      sc.close();
 
     }
     
