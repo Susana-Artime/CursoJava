@@ -3,7 +3,7 @@
 
 package CursoJava;
 import javax.swing.JOptionPane;
-public class ejercicio10{
+public class Ejercicio10{
     public static void main(String[] args) {
 
         JOptionPane.showMessageDialog(null, "Calculadora para dos números\n\nSUMA, RESTA, MULTIPLICACIÓN Y DIVISIÓN");

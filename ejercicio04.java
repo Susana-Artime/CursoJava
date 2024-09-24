@@ -3,7 +3,7 @@
 
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio04{
+public class Ejercicio04{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

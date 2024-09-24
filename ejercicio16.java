@@ -5,7 +5,7 @@ package CursoJava;
 import java.util.Scanner;
 import java.time.*;
 
-public class ejercicio16 {
+public class Ejercicio16 {
     
       public static void main(String[] args) {
 

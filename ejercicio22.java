@@ -4,7 +4,7 @@ un número generado aleatoriamente entre 1 y 100.*/
 package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio22{
+public class Ejercicio22{
 
     public static void main(String[] args) {
     

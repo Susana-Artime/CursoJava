@@ -4,7 +4,7 @@
 package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio19 {
+public class Ejercicio19 {
 
     public static void main(String[] args) {
 

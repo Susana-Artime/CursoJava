@@ -1,9 +1,9 @@
 //Imprimir tabla de multiplicar: Escribe un programa que imprima la tabla de
 //multiplicar de un número ingresado por el usuario usando un bucle for.
-
+package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio23 {
+public class Ejercicio23{
 
     public static void main(String[] args) {
          

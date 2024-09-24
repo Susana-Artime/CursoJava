@@ -4,7 +4,7 @@
 package CursoJava;
 import java.util.Random;
 
-public class ejercicio14 {
+public class Ejercicio14 {
     public static void main(String[] args) {
     
         String lowercase = "abcdefghijklmnopqrstuvwyxz";

@@ -3,7 +3,7 @@
 //número entero aleatorio entre 1 y 100 usando la clase Math.random
 package CursoJava;
 
-public class ejercicio12 {
+public class Ejercicio12 {
     
         public static void main(String[] args) {
 

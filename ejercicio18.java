@@ -2,8 +2,7 @@
 //día correspondiente de la semana usando una sentencia switch.
 package CursoJava;
 
-
-public class ejercicio18{
+public class Ejercicio18{
     public static void main(String[] args) {
 
         int numaleatorio;

@@ -2,8 +2,8 @@
 //diferentes tipos de variables (int, float, char, etc.), luego imprímelas.
 
 package CursoJava;
-public class ejercicio01{
-
+public class Ejercicio01{
+    
     public static void main(String[] args) {
     
         int num = 46;

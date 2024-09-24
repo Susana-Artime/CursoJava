@@ -4,7 +4,7 @@
 package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio17{
+public class Ejercicio17{
     public static void main(String[] args) {
 
         int numoperacion = 0;

@@ -5,7 +5,7 @@ suma y resta).
 
 package CursoJava;
 import java.util.Scanner;
-public class ejercicio03{
+public class Ejercicio03{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

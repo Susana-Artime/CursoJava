@@ -4,7 +4,7 @@
 package CursoJava;
 import java.util.Scanner;
 
-public class ejercicio11{
+public class Ejercicio11{
     
     public static void main (String [] args){
         //Calcular el area de un circulo utilizando Math.pow que sirve para cacular las potencias de un numero
