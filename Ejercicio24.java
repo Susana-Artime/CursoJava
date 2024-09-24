@@ -8,17 +8,19 @@ public class Ejercicio24{
     public static void main(String[] args) {
          
       int num; 
-      int resultado;   
+      double factorial=1;   
       Scanner sc = new Scanner(System.in);
 
       System.out.println("Vamos a calcular el factorial del número: ");
       num=sc.nextInt();
       
-      for(int i=1;i<=num;i++){
+      for(int i=num;i>0;i--){
         
-        
-
+         factorial=factorial*i;
+    
       }
+      
+      System.out.println("El factorial de " + num + " es: " + factorial);
 
 
     }
