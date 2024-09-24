@@ -6,7 +6,7 @@ package CursoJava;
 public class Ejercicio27 {
     public static void main(String[] args) {
      
-    //int numeros[] = {30,40,50,60,70};    
+    //int numeros[] = {70,40,80,60,50};    
     int numeros[];
     numeros = new int[5];  
     numeros[0] = 70;
