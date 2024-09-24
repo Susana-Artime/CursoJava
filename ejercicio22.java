@@ -15,14 +15,13 @@ public class ejercicio22{
     Scanner sc = new Scanner(System.in);
     
    
-
     System.out.println("El juego consiste en averiguar un número secreto entre 1 y 100.");
            
     while (terminar==false){
         
         System.out.print("Ingresa un número: ");
         num=sc.nextInt();
-
+       
         if(num==numAleatorio){
             System.out.println("Bien!!Has ganado!!");
             terminar=true;
@@ -43,6 +42,7 @@ public class ejercicio22{
         System.out.print("¿Te rindes?Escribe S(Si) o N(No)");
         String solucion=""; 
         solucion=sc.next(); 
+        
                  
         if(solucion.equals("S") || solucion.equals("s")){
              System.out.print("El número es: " + numAleatorio);
@@ -55,8 +55,6 @@ public class ejercicio22{
 
     }    
     
-
-   
     
  }
 
