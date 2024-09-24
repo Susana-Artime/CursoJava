@@ -23,7 +23,7 @@ public class Ejercicio25 {
                 System.out.print("*");
             System.out.println();
         }
-				
+		sc.close();	
     }
 }
         
