@@ -4,8 +4,10 @@ package CursoJava;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Set;
 
 public class Ejercicio36 {
+ 
    public static void main(String[] args) {
 
       List<String> animales=new ArrayList<>();
@@ -18,19 +20,16 @@ public class Ejercicio36 {
       animales.add("gato");
       animales.add("pajaro");
       
-      //Creamos un objeto HashSet
-      HashSet hs = new HashSet();
-
-     //Lo cargamos con los valores del array, esto hace quite los repetidos
-      hs.addAll(animales);
-
-     //Limpiamos el array
+      /*Clase HashSet, una de las implementaciones de la interface Set, 
+      que define una colección que no puede contener elementos duplicados.
+      Le pasamos un objeto de tipo de Collection (nuestro Array)*/
+      Set<String> hashSet = new HashSet<String>(animales);
+      //Borramos los elementos de la lista
       animales.clear();
-
-     //Agregamos los valores sin repetir
-      animales.addAll(hs);
-
-     //Imprimimos  el resultado
+      //Añadimos el objeto Collection(nuestro Array)sin duplicados
+      animales.addAll(hashSet);
+      
+     //Imprimimos el resultado
       for (int i = 0; i < animales.size(); i++) {
             System.out.println(animales.get(i));
       }
