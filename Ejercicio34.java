@@ -1,7 +1,7 @@
 //Valores máximo y mínimo de tipos: Escribe un programa que imprima los
 //valores máximo y mínimo de int, double, y char usando métodos de las clases
 //envolventes.
-
+package CursoJava;
 public class Ejercicio34 {
     
   public static void main(String[] args) {
